@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+efd43167ae4ad3378d45e740a8f95518969f3a8d refs/heads/dev-resources
+b0b35e70d43584d3c66274905eb1e652e4e5403c refs/heads/master
+efd43167ae4ad3378d45e740a8f95518969f3a8d refs/heads/template-dev
+88011703ec11d39e68ecfcdc52726865111228d2 refs/tags/v0.6-frontend-entrypoint
+^beae35b0fb2c07c89a54f950bf71a2d574464c53
+c09abb8afd15b644c193f455d64d1ae3217c845b refs/tags/v0.9
+^89890bedb841a54314af3e90fd7a179051f50193
