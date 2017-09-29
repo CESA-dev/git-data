@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target 'SwiftECP_Example' do
+  pod "SwiftECP", :path => "../"
+
+  target 'SwiftECP_Tests' do
+    inherit! :search_paths
+  end
+end
